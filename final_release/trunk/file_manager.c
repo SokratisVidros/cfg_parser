@@ -6,7 +6,7 @@
  * @date	 : 30-12-2011 
  * @copyright	 : Copyright (c) 2011 Vidros Sokratis
  * @version	 : 1.0
- * @description : File IO functions
+ * @description  : File IO functions
  *   
  */
 

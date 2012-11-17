@@ -1,13 +1,13 @@
 /**
  * recursive_generator.c
  *
- * @package	 : 
- * @author	 : Vidros Sokratis <sokratis.vidros@gmail.com>
+ * @package	: 
+ * @author	: Vidros Sokratis <sokratis.vidros@gmail.com>
  * @date        : 30-12-2011 
- * @copyright	 : Copyright (c) 2011 Vidros Sokratis
- * @version	 : 1.0
+ * @copyright	: Copyright (c) 2011 Vidros Sokratis
+ * @version     : 1.0
  * @description : Sentence producer from CFG. It produces a random valid 
- *		   sentence from a given grammar
+ *		  sentence from a given grammar
  */
 
 #include <stdio.h>

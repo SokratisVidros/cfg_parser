@@ -6,7 +6,7 @@
  * @date	 : 29-12-2011 
  * @copyright	 : Copyright (c) 2011 Vidros Sokratis
  * @version	 : 1.0
- * @description : Character eliminator
+ * @description  : Character eliminator
  * @tribute	 : http://www.daniweb.com/software-development/c/threads/15538
  */
 

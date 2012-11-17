@@ -6,7 +6,7 @@
  * @date	 : 29-12-2011 
  * @copyright	 : Copyright (c) 2011 Vidros Sokratis
  * @version	 : 1.0
- * @description : Random Integer Generator
+ * @description  : Random Integer Generator
  *   
  */
 

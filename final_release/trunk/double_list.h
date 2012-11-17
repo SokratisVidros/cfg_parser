@@ -6,7 +6,7 @@
  * @date	 : 28-12-2011 
  * @copyright	 : Copyright (c) 2011 Vidros Sokratis
  * @version	 : 1.0
- * @description : Double Linked List Header file.
+ * @description  : Double Linked List Header file.
  *   
  */
 
